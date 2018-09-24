@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppToModule</string>
+    <string name="title_activity_epay_later_payment">EpayLaterPaymentActivity</string>
+</resources>
